@@ -1,1 +1,1 @@
-# Artificial-Neural-Netwirks-ANN
+# Artificial-Neural-Networks-ANN
